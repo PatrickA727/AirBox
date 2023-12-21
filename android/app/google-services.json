@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1039319991942",
+    "firebase_url": "https://air-purifier-e1b0d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "air-purifier-e1b0d",
+    "storage_bucket": "air-purifier-e1b0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039319991942:android:015b5c561c7d90369ef307",
+        "android_client_info": {
+          "package_name": "com.example.air_purifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEq_0DKPet6klKasAX-cIW6sr2D6SULck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
